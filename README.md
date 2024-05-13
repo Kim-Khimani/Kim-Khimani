@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kim-Khimani
 - 👀 I’m interested in software Engineering
-- 🌱 I’m currently learning frontend web development
+- 🌱 I’m currently working on backend projects
 - 💞️ I’m looking to collaborate on projects that will expose me to software development
 - 📫 How to reach me via the email kimpaul2077@gmail.com
 
